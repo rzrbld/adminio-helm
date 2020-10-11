@@ -43,7 +43,7 @@ image:
   repository: rzrbld/adminio-ui
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "edge6"
+  tag: "release-1.4"
 
 imagePullSecrets: []
 nameOverride: ""
