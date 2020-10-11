@@ -4,7 +4,7 @@ simple helm charts for [adminio-api](https://github.com/rzrbld/adminio-api) and 
 written for openshift/okd but suitable for k8s. All containers run in unprivileged mode.
 
 ### Requirements
-- Helm [Helm-install](https://helm.sh/docs/intro/install/)
+- [Helm-install](https://helm.sh/docs/intro/install/)
 - k8s/okd/openshift cluster
 - adminio-ui image with tag `release-1.4` or greater
 
